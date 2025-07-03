@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Skills:<br>Python, sql, power bi, statistics, excel, pandas, numpy, matplotlib</h2>
+<h2 align="left">Skills:<br>Python, SQL, power bi, statistics, excel, pandas, numpy, matplotlib</h2>
 
 ###
 
